@@ -46,6 +46,9 @@
                             <constraint firstItem="UUi-Ms-bys" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="mFG-6T-Nu9"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="imageView" destination="UUi-Ms-bys" id="GVT-eu-XCJ"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
